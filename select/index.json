@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "base_track": "flyby",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-19T06:56:33.848914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flyby Anomaly",
+      "artist": "La prière",
+      "has_synced": true,
+      "path": "select/01_Flyby_Anomaly_La_prière.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "flyby",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_flyby_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "flyby.",
+      "artist": "Virginia to Vegas feat. Mokita",
+      "has_synced": true,
+      "path": "select/03_flyby._Virginia_to_Vegas_feat._Mokita.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "flyby.",
+      "artist": "Virginia to Vegas",
+      "has_synced": true,
+      "path": "select/04_flyby._Virginia_to_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flyby",
+      "artist": "PiNKII",
+      "has_synced": true,
+      "path": "select/05_Flyby_PiNKII.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "flyby.",
+      "artist": "Virginia To Vegas",
+      "has_synced": true,
+      "path": "select/06_flyby._Virginia_To_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flyby",
+      "artist": "PiNKII & Jupiluxe",
+      "has_synced": true,
+      "path": "select/07_Flyby_PiNKII_&_Jupiluxe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Voyager,flyby (BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_Voyager,flyby_(BUMP_OF_CHICKEN_TOUR_ホームシック衛星2024_at_ARIAKE_ARENA_-_DAY2_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "flyby",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_flyby_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "flyby",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/localdb_01_flyby_BUMP_OF_CHICKEN.lrc",
+      "repo_name": "_6nuvxAHAJY"
+    }
+  ]
+}
